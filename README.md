@@ -1,2 +1,62 @@
-# bazmek
-Somthing somthing for LLMs
+# Bazmek
+Somthing somthing for LLMs.
+
+## TODO
+ - [x] Create package installation.
+ - [x] Add `ruff` linter.
+ - [ ] Create async API for LLM calling:
+   - [x] Single shot.
+   - [x] Single shot with system prompt.
+   - [x] Chat.
+   - [x] Chat with system prompt.
+   - [x] Parameters settings (temperature, ...).
+   - [ ] Function utilization.
+   - [ ] Context size informations.
+   - [ ] Response format setting (Json, objects (description from dosc).
+   - [ ] Multimodal models - send images / pdf.
+ - [ ] LLM utilities:
+   - [ ] Chain of thoughts.
+   - [ ] Tree of thoughts.
+   - [ ] Rails.
+   - [ ] Chains.
+   - [ ] Self consistency.
+   - [ ] Reflection.
+   - [ ] Agents.
+   - [ ] Automatic prompt engineering.
+   - [ ] Premade tools (calculator, programmer, web search).
+   - [ ] Sandbox environment for code running.
+   - [ ] Automatic parametesr tuning.
+   - [ ] Debate and adversial self-play (reuse agents).
+   - [ ] Iterative refinement.
+   - [ ] Meta prompting / self prompting.
+   - [ ] Tool aided reasoning.
+   - [ ] Graph of thoughts.
+ - [ ] Retrieval-Augmented Generation:
+   - [ ] Add information pre prompting.
+   - [ ] Research possible tools to create databases.
+   - [ ] Add some tools.
+ - [ ] HTML parser:
+   - [ ] Create representable format.
+   - [ ] Find elements in repeating structure.
+   - [ ] Parse headings.
+   - [ ] Parse list elements into lists.
+   - [ ] Parse paragrah elements into paragraphs.
+   - [ ] Parse tables (see IS Help pages).
+   - [ ] Parse icons (`<i>`).
+   - [ ] Parse liks.
+   - [ ] Give image warnings and store image metadata (url).
+   - [ ] Interactive tool that visualize HTML with formating and the result.
+ - [ ] LaTeX parser:
+   - [ ] Use the same format as HTML parses.
+   - [ ] Parse titles
+   - [ ] Parse lists.
+   - [ ] Parse tables.
+   - [ ] Parse paragraphs.
+   - [ ] Parse figures.
+   - [ ] Parse references.
+ - [ ] Guidelines:
+   - [ ] Prompt engineering and expert prompting.
+   - [ ] Parameter settings.
+   - [ ] Response format alter accuracy.
+   - [ ] Reasoning must preceed answer (tokens per task / thought).
+ - [ ] Docs.
