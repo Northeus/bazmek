@@ -14,6 +14,7 @@ Somthing somthing for LLMs.
    - [ ] Context size informations.
    - [x] Response format setting (Json, objects (description from dosc).
    - [ ] Multimodal models - send images / pdf.
+   - [ ] Utility for scheme creation.
  - [ ] LLM utilities:
    - [ ] Chain of thoughts.
    - [ ] Tree of thoughts.
