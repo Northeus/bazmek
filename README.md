@@ -12,7 +12,7 @@ Somthing somthing for LLMs.
    - [x] Parameters settings (temperature, ...).
    - [ ] Function utilization.
    - [ ] Context size informations.
-   - [ ] Response format setting (Json, objects (description from dosc).
+   - [x] Response format setting (Json, objects (description from dosc).
    - [ ] Multimodal models - send images / pdf.
  - [ ] LLM utilities:
    - [ ] Chain of thoughts.
@@ -57,6 +57,7 @@ Somthing somthing for LLMs.
  - [ ] Guidelines:
    - [ ] Prompt engineering and expert prompting.
    - [ ] Parameter settings.
+   - [ ] Set context window (default is really small).
    - [ ] Response format alter accuracy.
    - [ ] Reasoning must preceed answer (tokens per task / thought).
  - [ ] Docs.
