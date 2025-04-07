@@ -4,17 +4,18 @@ Somthing somthing for LLMs.
 ## TODO
  - [x] Create package installation.
  - [x] Add `ruff` linter.
- - [ ] Create async API for LLM calling:
+ - [x] Create async API for LLM calling:
    - [x] Single shot.
    - [x] Single shot with system prompt.
    - [x] Chat.
    - [x] Chat with system prompt.
    - [x] Parameters settings (temperature, ...).
-   - [ ] Function utilization.
-   - [ ] Context size informations.
+   - [x] Function utilization.
+   - [x] Context size informations.
    - [x] Response format setting (Json, objects (description from dosc).
-   - [ ] Multimodal models - send images / pdf.
-   - [ ] Utility for scheme creation.
+   - [x] Multimodal models - send images.
+   - [x] Resize and encode image to b64.
+   - [x] Verify functionality above.
  - [ ] LLM utilities:
    - [ ] Chain of thoughts.
    - [ ] Tree of thoughts.
