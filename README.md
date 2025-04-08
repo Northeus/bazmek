@@ -26,7 +26,7 @@ Somthing somthing for LLMs.
    - [ ] Agents.
    - [ ] Automatic prompt engineering.
    - [ ] Premade tools (calculator, programmer, web search).
-   - [ ] Sandbox environment for code running.
+   - [x] Sandbox environment for code running.
    - [ ] Automatic parametesr tuning.
    - [ ] Debate and adversial self-play (reuse agents).
    - [ ] Iterative refinement.
